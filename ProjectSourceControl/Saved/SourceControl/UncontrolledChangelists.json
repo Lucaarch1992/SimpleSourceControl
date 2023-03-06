@@ -5,7 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/info/OneDrive/Documenti/GitHub/SimpleSourceControl/ProjectSourceControl/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/info/OneDrive/Documenti/GitHub/SimpleSourceControl/ProjectSourceControl/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/info/OneDrive/Documenti/GitHub/SimpleSourceControl/ProjectSourceControl/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"C:/Users/info/OneDrive/Documenti/GitHub/SimpleSourceControl/ProjectSourceControl/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
+				"C:/Users/info/OneDrive/Documenti/GitHub/SimpleSourceControl/ProjectSourceControl/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset",
+				"C:/Users/info/OneDrive/Documenti/GitHub/SimpleSourceControl/ProjectSourceControl/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/V3/OVHTRYM87SNMNU582DS6MK.uasset",
+				"C:/Users/info/OneDrive/Documenti/GitHub/SimpleSourceControl/ProjectSourceControl/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TC/Y3USR38ZXNBL43PZZT2KI3.uasset",
+				"C:/Users/info/OneDrive/Documenti/GitHub/SimpleSourceControl/ProjectSourceControl/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/TY/3HMWRYDUJN9GIG2XPV14XO.uasset",
+				"C:/Users/info/OneDrive/Documenti/GitHub/SimpleSourceControl/ProjectSourceControl/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2W/9PIFU1BOSJM4AXAWCCNE68.uasset",
+				"C:/Users/info/OneDrive/Documenti/GitHub/SimpleSourceControl/ProjectSourceControl/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/J5/QUH3T82WVMPFTLZU92EQLP.uasset",
+				"C:/Users/info/OneDrive/Documenti/GitHub/SimpleSourceControl/ProjectSourceControl/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/DG/3M7JLMERG59XAX6G3JR21V.uasset",
+				"C:/Users/info/OneDrive/Documenti/GitHub/SimpleSourceControl/ProjectSourceControl/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/PQ/JBKKJ7KWIA20SWJHS5WUCD.uasset",
+				"C:/Users/info/OneDrive/Documenti/GitHub/SimpleSourceControl/ProjectSourceControl/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NC/9M8MVM01BSWJ5MARR4SW28.uasset",
+				"C:/Users/info/OneDrive/Documenti/GitHub/SimpleSourceControl/ProjectSourceControl/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/M6/YCM44OOIR7YHW39V118PBH.uasset"
 			]
 		}
 	]
